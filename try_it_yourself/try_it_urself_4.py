@@ -4,6 +4,7 @@
 favorite_toppings = ['pepperoni', 'olives', 'spinach']
 for toppings in favorite_toppings:
     print(toppings)
+#Please pay attention to the length method. DO NOT CONFUSE WITH JS.     
 print(len(favorite_toppings))
 
         # Modify your for loop to print a sentence using the name of the pizza instead of printing just the name of the pizza . 

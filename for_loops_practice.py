@@ -10,4 +10,10 @@ for baby_name in baby_names:
     print(baby_name.lower())
     print(baby_name.title() + " is a beautiful name & no my husband didn't help") 
 
-    
+#Practice using list with numbers 
+for value in range(1, 13):
+        print(value)
+   
+# the last value tells the list to add one. 
+numbers = list(range(1, 14, 2))
+print(numbers)
